@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ee4df2-d418-407c-9a69-a2f6cee0a055" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/xc-ui-pc-portal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-freemarker/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-freemarker/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-freemarker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-freemarker/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-freemarker/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-producer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-producer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-producer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-producer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/test-rabbitmq-producer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-model/xc-framework-model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-parent/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-govern-center/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-govern-center/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-govern-center/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-govern-center/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-govern-center/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-api/xc-service-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-base-filesystem/xc-service-base-filesystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-cms/xc-service-manage-cms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/dao/CoursePubRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/xc-service-manage-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-search/src/main/java/com/xuecheng/search/config/ElasticsearchConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-search/src/main/java/com/xuecheng/search/controller/EsCourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-search/src/main/java/com/xuecheng/search/service/EsCourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-search/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xcEduCode01/xc-framework-common/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-common/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xcEduCode01/xc-framework-model/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-model/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xcEduCode01/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xcEduCode01/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xcEduCode01/xc-service-manage-course/src/main/java/com/xuecheng/manage_course/service/CourseService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1046258414">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>extend</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nuxt.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
+    <option name="width" value="1375" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xc-ui-pc-portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-ui-pc-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="nuxt.&#9;FILE&#9;file://D:/xcEdu/xc-ui-pc-portal/nuxt.config.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\xcEdu\xc-ui-pc-portal\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\xcEdu\xc-ui-pc-portal\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ee4df2-d418-407c-9a69-a2f6cee0a055" name="Default Changelist" comment="" />
+      <created>1591151849377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591151849377</updated>
+      <workItem from="1591151850945" duration="3796000" />
+    </task>
+    <task id="LOCAL-00001" summary="nuxt服务端渲染便于elasearch全文搜索">
+      <created>1591171582590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591171582590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3796000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="npm" sideWeight="0.31205675" side_tool="true" visible="true" weight="0.22126816" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6879433" visible="true" weight="0.22126816" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nuxt服务端渲染便于elasearch全文搜索" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuxt服务端渲染便于elasearch全文搜索" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
