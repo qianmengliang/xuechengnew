@@ -2,11 +2,31 @@ server:
   port: ${port:40100}
 spring:
   application:
-    name: xc-search-service
+    name: xc-service-search
 xuecheng:
   elasticsearch:
-    hostlist: ${eshostlist:127.0.0.1:9200} #�������м��ö��ŷָ�
-    course:
-      index: xc_course
-      type: doc
-      source_field: id,name,grade,mt,st,charge,valid,pic,qq,price,price_old,status,studymodel,teachmode,expires,pub_time,start_time,end_time
+    hostlist: ${eshostlist:127.0.0.1:9200} #多个结点中间用逗号分隔
+  course:
+    index: xc_course
+    type: doc
+    source_field: id,name,grade,mt,st,charge,valid,pic,qq,price,price_old,status,studymodel,teachmode,expires,pub_time,start_time,end_time
+  media:
+    index: xc_course_media
+    type: doc
+    source_field: courseid,media_id,media_url,teachplan_id,media_fileoriginalname
+eureka:
+  client:
+    registerWithEureka: true #服务注册开关
+    fetchRegistry: true #服务发现开关
+    serviceUrl: #Eureka客户端与Eureka服务端进行交互的地址，多个中间用逗号分隔
+      defaultZone: ${EUREKA_SERVER:http://localhost:50101/eureka/}
+  instance:
+    prefer-ip-address:  true  #将自己的ip地址注册到Eureka服务中
+    ip-address: ${IP_ADDRESS:127.0.0.1}
+    instance-id: ${spring.application.name}:${server.port} #指定实例id
+ribbon:
+  MaxAutoRetries: 2 #最大重试次数，当Eureka中可以找到服务，但是服务连不上时将会重试，如果eureka中找不到服务则直接走断路器
+  MaxAutoRetriesNextServer: 3 #切换实例的重试次数
+  OkToRetryOnAllOperations: false  #对所有操作请求都进行重试，如果是get则可以，如果是post，put等操作没有实现幂等的情况下是很危险的,所以设置为false
+  ConnectTimeout: 5000  #请求连接的超时时间
+  ReadTimeout: 6000 #请求处理的超时时间
